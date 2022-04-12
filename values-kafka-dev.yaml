@@ -1,0 +1,2 @@
+kafkaServer:
+  - kafka-1-headless.kafka.svc.cluster.local:9092
